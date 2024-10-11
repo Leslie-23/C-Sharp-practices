@@ -1,0 +1,15 @@
+D:\csharp-for-everybody\AsyncAPI-Call\obj\Debug\net7.0\AsyncAPI-Call.csproj.AssemblyReference.cache
+D:\csharp-for-everybody\AsyncAPI-Call\obj\Debug\net7.0\AsyncAPI-Call.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-for-everybody\AsyncAPI-Call\obj\Debug\net7.0\AsyncAPI-Call.AssemblyInfoInputs.cache
+D:\csharp-for-everybody\AsyncAPI-Call\obj\Debug\net7.0\AsyncAPI-Call.AssemblyInfo.cs
+D:\csharp-for-everybody\AsyncAPI-Call\obj\Debug\net7.0\AsyncAPI-Call.csproj.CoreCompileInputs.cache
+D:\csharp-for-everybody\AsyncAPI-Call\bin\Debug\net7.0\AsyncAPI-Call.exe
+D:\csharp-for-everybody\AsyncAPI-Call\bin\Debug\net7.0\AsyncAPI-Call.deps.json
+D:\csharp-for-everybody\AsyncAPI-Call\bin\Debug\net7.0\AsyncAPI-Call.runtimeconfig.json
+D:\csharp-for-everybody\AsyncAPI-Call\bin\Debug\net7.0\AsyncAPI-Call.dll
+D:\csharp-for-everybody\AsyncAPI-Call\bin\Debug\net7.0\AsyncAPI-Call.pdb
+D:\csharp-for-everybody\AsyncAPI-Call\obj\Debug\net7.0\AsyncAPI-Call.dll
+D:\csharp-for-everybody\AsyncAPI-Call\obj\Debug\net7.0\refint\AsyncAPI-Call.dll
+D:\csharp-for-everybody\AsyncAPI-Call\obj\Debug\net7.0\AsyncAPI-Call.pdb
+D:\csharp-for-everybody\AsyncAPI-Call\obj\Debug\net7.0\AsyncAPI-Call.genruntimeconfig.cache
+D:\csharp-for-everybody\AsyncAPI-Call\obj\Debug\net7.0\ref\AsyncAPI-Call.dll
