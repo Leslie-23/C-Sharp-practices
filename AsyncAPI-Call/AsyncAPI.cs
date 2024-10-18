@@ -24,7 +24,8 @@ class AsyncAPI
                 response.EnsureSuccessStatusCode(); // Throw if not a success code
 
                 string responseBody = await response.Content.ReadAsStringAsync();
-                Console.WriteLine($"Response: {responseBody}");
+                Console.WriteLine($"Response: {responseBody}\n\n");
+                // Console.WriteLine($"Response: {responseBody.disclaimer}");
             }
             catch (HttpRequestException e)
             {
